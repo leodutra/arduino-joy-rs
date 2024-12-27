@@ -1,0 +1,9 @@
+[package]
+name = "arduino-joy-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+evdev = "0.12.2"
+firmata = "0.2.0"
+serialport = "4.6.1"
